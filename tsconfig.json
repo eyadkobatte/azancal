@@ -1,5 +1,5 @@
 {
-  "exclude": ["oxlint.config.ts", "oxfmt.config.ts"],
+  "exclude": ["lint-staged.config.ts", "oxlint.config.ts", "oxfmt.config.ts"],
   "compilerOptions": {
     // File Layout
     "rootDir": "./src",
